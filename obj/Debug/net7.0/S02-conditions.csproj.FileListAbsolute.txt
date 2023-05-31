@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/bin/Debug/net7.0/S02-conditions
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/bin/Debug/net7.0/S02-conditions.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/bin/Debug/net7.0/S02-conditions.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/bin/Debug/net7.0/S02-conditions.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/bin/Debug/net7.0/S02-conditions.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/refint/S02-conditions.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/S02-conditions.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-conditions/obj/Debug/net7.0/ref/S02-conditions.dll
